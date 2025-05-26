@@ -1,4 +1,4 @@
-# Ioannis Nousis – 3D Generalist | Animation Showreel 2025
+# Ioannis Nousis – 3D Animation 
 
 Welcome to my personal portfolio! I am an aspiring 3D Artist passionate about:
 
@@ -9,7 +9,7 @@ Welcome to my personal portfolio! I am an aspiring 3D Artist passionate about:
 
 ---
 
-## 🎞️ Showreel 2025
+## 🎞️ 3D GENERALIST Showreel 2025
 
 [![Watch the Showreel](https://img.youtube.com/vi/NGTvuZC5dFM/0.jpg)](https://www.youtube.com/watch?v=NGTvuZC5dFM)
 
